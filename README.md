@@ -32,6 +32,3 @@ Esta es una aplicación web que permite a los usuarios agregar nombres de amigos
 ## **Autor**
 Desarrollado por **Gabriela Vidales** como proyecto final del curso **Principiante en Programación G8 - ONE de Alura Latam**.
 
-## **Licencia**
-Este proyecto está bajo la licencia **MIT**. Puedes ver más detalles en el archivo `LICENSE`.
-
